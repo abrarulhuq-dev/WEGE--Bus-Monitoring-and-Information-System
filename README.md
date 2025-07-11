@@ -29,8 +29,9 @@ Ideal for transit authorities, schools, and smart city infrastructure.
 
 | Frontend | Backend | Database | Tools & Others |
 |----------|---------|----------|----------------|
-| ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB) | ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) | ![NPX](https://img.shields.io/badge/npx-black?logo=npm&logoColor=white) 
+| ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  |  ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) ![NPX](https://img.shields.io/badge/npx-black?logo=npm&logoColor=white) 
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) |  | ![Expo Go](https://img.shields.io/badge/Expo_Go-000020?logo=expo&logoColor=white)
+
 
 
 
@@ -71,10 +72,7 @@ npm install
 
     ```npx expo start --tunnel```
 
-    before run it we need to the download a EXPO GO in mobile application
-    then run it generate the QR code to scan on the application of EXPO GO
-
-    
+     
 
 6. **Environment Setup**
 Create a `.env` file in the backend folder. Example:
