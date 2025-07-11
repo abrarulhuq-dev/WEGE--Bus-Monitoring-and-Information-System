@@ -1,0 +1,4142 @@
+[
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Pathanamthitta - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "04:30:00",
+        "Arrival Time": "05:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "04:40:00",
+        "Arrival Time": "05:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Aranmula",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5678",
+        "Fare": "109 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "05:00:00",
+        "Arrival Time": "05:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4321",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "05:20:00",
+        "Arrival Time": "06:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8765",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "05:40:00",
+        "Arrival Time": "06:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6789",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "05:50:00",
+        "Arrival Time": "06:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Kodumon",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9876",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Nedumkandam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "05:50:00",
+        "Arrival Time": "06:20:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "06:00:00",
+        "Arrival Time": "06:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2134",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Erumely - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "06:15:00",
+        "Arrival Time": "06:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5643",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "SARANYA",
+        "Route": "Nedumkandam - Kottarakkara",
+        "Bus Type": "Limited Stop",
+        "Departure Time": "06:15:00",
+        "Arrival Time": "07:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6780",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "06:20:00",
+        "Arrival Time": "07:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-0987",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "06:40:00",
+        "Arrival Time": "07:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3456",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "06:45:00",
+        "Arrival Time": "07:15:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4325",
+        "Fare": "109 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1098",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7654",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kulathumon - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Vallicode",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2309",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:05:00",
+        "Arrival Time": "07:50:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4589",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:00:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6497",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ranny - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:15:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7801",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kulathumon - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:15:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Vallicode",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3205",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:20:00",
+        "Arrival Time": "15:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5467",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:30:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Vallicode",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6542",
+        "Fare": "109 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pamba - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:30:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8764",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:40:00",
+        "Arrival Time": "15:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2098",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:00:00",
+        "Arrival Time": "15:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4327",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:20:00",
+        "Arrival Time": "16:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1235",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Cheruthoni - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:40:00",
+        "Arrival Time": "16:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9087",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "SARANYA",
+        "Route": "Kumily - Kollam",
+        "Bus Type": "Limited Stop",
+        "Departure Time": "15:40:00",
+        "Arrival Time": "16:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5568",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:50:00",
+        "Arrival Time": "16:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4679",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "16:05:00",
+        "Arrival Time": "16:50:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7890",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thrissur - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:10:00",
+        "Arrival Time": "16:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9085",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "16:25:00",
+        "Arrival Time": "17:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3546",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kumily - Chathannoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:35:00",
+        "Arrival Time": "17:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2334",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Erattupetta - Parassala",
+        "Bus Type": "Super Fast",
+        "Departure Time": "16:35:00",
+        "Arrival Time": "17:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6767",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "16:45:00",
+        "Arrival Time": "17:30:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2245",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kumily - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:50:00",
+        "Arrival Time": "17:20:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7454",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "SARANYA",
+        "Route": "Koottar - Kottarakkara",
+        "Bus Type": "Limited Stop",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "17:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1223",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "17:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7543",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:05:00",
+        "Arrival Time": "17:50:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2247",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kumily - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:10:00",
+        "Arrival Time": "17:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9078",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "SARANYA",
+        "Route": "Kumily - Kundara",
+        "Bus Type": "Limited Stop",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "18:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6732",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:25:00",
+        "Arrival Time": "18:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2456",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:40:00",
+        "Arrival Time": "18:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7821",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:45:00",
+        "Arrival Time": "18:30:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3921",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:00:00",
+        "Arrival Time": "18:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1097",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Koottar - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "18:15:00",
+        "Arrival Time": "18:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6542",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:20:00",
+        "Arrival Time": "19:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2345",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Aluva - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "18:35:00",
+        "Arrival Time": "19:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kumily - Kaliyakkavilai",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:35:00",
+        "Arrival Time": "19:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kumily - Kaliyikkavila",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:35:00",
+        "Arrival Time": "19:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9876",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:40:00",
+        "Arrival Time": "19:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2341",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:50:00",
+        "Arrival Time": "19:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4502",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:05:00",
+        "Arrival Time": "19:50:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8903",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:25:00",
+        "Arrival Time": "20:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1432",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:40:00",
+        "Arrival Time": "20:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5673",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "20:00:00",
+        "Arrival Time": "20:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7812",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Kollam",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "20:20:00",
+        "Arrival Time": "21:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4321",
+        "Fare": "54 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "20:40:00",
+        "Arrival Time": "21:25:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6547",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "21:00:00",
+        "Arrival Time": "21:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9850",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Pandalam",
+        "Bus Type": "Ordinary",
+        "Departure Time": "06:00:00",
+        "Arrival Time": "06:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Chenneerkara",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-6789",
+        "Fare": "24 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "06:15:00",
+        "Arrival Time": "06:55:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "07:05:00",
+        "Arrival Time": "07:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "07:35:00",
+        "Arrival Time": "08:15:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-6780",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "08:05:00",
+        "Arrival Time": "08:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-1324",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "08:30:00",
+        "Arrival Time": "09:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-8765",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "09:00:00",
+        "Arrival Time": "09:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-9876",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "09:35:00",
+        "Arrival Time": "10:15:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3245",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "10:05:00",
+        "Arrival Time": "10:45:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-7654",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "10:30:00",
+        "Arrival Time": "11:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-0987",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "10:55:00",
+        "Arrival Time": "11:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5430",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Malayalapuzha - Harippad",
+        "Bus Type": "Ordinary",
+        "Departure Time": "11:00:00",
+        "Arrival Time": "11:50:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-4321",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "11:25:00",
+        "Arrival Time": "12:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2349",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "11:55:00",
+        "Arrival Time": "12:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "12:35:00",
+        "Arrival Time": "13:15:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "13:00:00",
+        "Arrival Time": "13:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-8901",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "13:30:00",
+        "Arrival Time": "14:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3456",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:00:00",
+        "Arrival Time": "14:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5674",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:25:00",
+        "Arrival Time": "15:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2348",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:55:00",
+        "Arrival Time": "15:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-9870",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:25:00",
+        "Arrival Time": "16:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3451",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "15:55:00",
+        "Arrival Time": "16:35:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5673",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "16:30:00",
+        "Arrival Time": "17:10:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-7654",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "17:40:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-8761",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:35:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2346",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Mavelikkara",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:50:00",
+        "Arrival Time": "18:30:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-9874",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Harippad",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:25:00",
+        "Arrival Time": "19:05:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-7654",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Mavelikkara",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "18:50:00",
+        "Arrival Time": "19:30:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Mavelikkara",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:20:00",
+        "Arrival Time": "20:00:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-8902",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pathanamthitta - Mavelikkara",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:50:00",
+        "Arrival Time": "20:30:00",
+        "Main Stops": [
+            "Pathanamthitta",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-4321",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Sullia - Kottarakkara",
+        "Bus Type": "Super Deluxe",
+        "Departure Time": "06:40:00",
+        "Arrival Time": "06:50:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-1023",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Sullia - Kottarakkara",
+        "Bus Type": "Super Deluxe",
+        "Departure Time": "06:40:00",
+        "Arrival Time": "06:50:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-1834",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Changanassery - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "06:40:00",
+        "Arrival Time": "06:55:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2545",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ponkunnam - Neyyattinkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "06:45:00",
+        "Arrival Time": "07:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3126",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "06:45:00",
+        "Arrival Time": "07:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4027",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "06:50:00",
+        "Arrival Time": "07:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5079",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Trivandrum",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "06:50:00",
+        "Arrival Time": "07:15:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-6234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Pala - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "06:55:00",
+        "Arrival Time": "07:10:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-7345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "06:55:00",
+        "Arrival Time": "07:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8467",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Enath",
+        "Bus Type": "Ordinary",
+        "Departure Time": "06:55:00",
+        "Arrival Time": "07:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9578",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1089",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kothamangalam - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2137",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Koothattukulam - Aruvippuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3250",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:00:00",
+        "Arrival Time": "07:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4312",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:05:00",
+        "Arrival Time": "07:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:45:00",
+        "Arrival Time": "08:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "07:45:00",
+        "Arrival Time": "08:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Pala - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "07:50:00",
+        "Arrival Time": "08:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Udayagiri - Adoor",
+        "Bus Type": "Super Fast",
+        "Departure Time": "07:55:00",
+        "Arrival Time": "08:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-3456",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "07:55:00",
+        "Arrival Time": "08:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-4567",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Koothattukulam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:00:00",
+        "Arrival Time": "08:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Erattupetta - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:05:00",
+        "Arrival Time": "08:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "08:10:00",
+        "Arrival Time": "08:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Changanassery - Tirunelveli",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:10:00",
+        "Arrival Time": "08:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Muvattupuzha - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "08:15:00",
+        "Arrival Time": "08:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thodupuzha - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "08:20:00",
+        "Arrival Time": "08:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-3456",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ponkunnam - Kaliyikkavila",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:20:00",
+        "Arrival Time": "08:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-4567",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Adoor",
+        "Bus Type": "Super Fast",
+        "Departure Time": "08:25:00",
+        "Arrival Time": "08:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Adoor",
+        "Bus Type": "Super Fast",
+        "Departure Time": "08:25:00",
+        "Arrival Time": "08:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Changanassery - Thirunelveli",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:25:00",
+        "Arrival Time": "08:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thodupuzha - Trivandrum",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "08:30:00",
+        "Arrival Time": "08:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Mallappally - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "08:30:00",
+        "Arrival Time": "09:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-7890",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:30:00",
+        "Arrival Time": "09:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-3456",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Piravom - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:30:00",
+        "Arrival Time": "09:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ponkunnam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:35:00",
+        "Arrival Time": "09:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Kollam",
+        "Bus Type": "Ordinary",
+        "Departure Time": "08:35:00",
+        "Arrival Time": "09:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-4567",
+        "Fare": "39 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chakkulathukavu - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "08:35:00",
+        "Arrival Time": "09:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kallissery",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kothamangalam - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "08:35:00",
+        "Arrival Time": "08:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-6789",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Erattupetta - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "08:40:00",
+        "Arrival Time": "09:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-2345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "08:40:00",
+        "Arrival Time": "09:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-07-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Kadampanad",
+        "Bus Type": "Ordinary",
+        "Departure Time": "08:45:00",
+        "Arrival Time": "09:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1023",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:15:00",
+        "Arrival Time": "09:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1023",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Erattupetta - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:20:00",
+        "Arrival Time": "09:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1834",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Chalakudy - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "09:25:00",
+        "Arrival Time": "09:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1035",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "09:30:00",
+        "Arrival Time": "09:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2041",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Changanassery - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:30:00",
+        "Arrival Time": "09:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1843",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Cherikkal - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "09:30:00",
+        "Arrival Time": "09:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1234",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:30:00",
+        "Arrival Time": "09:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2245",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pala - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:30:00",
+        "Arrival Time": "09:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3456",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Ernakulam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "09:35:00",
+        "Arrival Time": "09:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9876",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Puthoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "09:35:00",
+        "Arrival Time": "10:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4321",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "09:40:00",
+        "Arrival Time": "10:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thodupuzha - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "09:45:00",
+        "Arrival Time": "10:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1102",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "09:50:00",
+        "Arrival Time": "10:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6543",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thrissur - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "09:55:00",
+        "Arrival Time": "10:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2203",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kolenchery - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "10:00:00",
+        "Arrival Time": "10:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3321",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "10:00:00",
+        "Arrival Time": "10:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4432",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Munnar - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "10:11:00",
+        "Arrival Time": "10:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5567",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "10:15:00",
+        "Arrival Time": "10:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6610",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "10:15:00",
+        "Arrival Time": "10:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7774",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Parumala Church - Kottarakkara",
+        "Bus Type": "Ordinary",
+        "Departure Time": "10:20:00",
+        "Arrival Time": "10:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8855",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kattappana - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "10:20:00",
+        "Arrival Time": "10:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1001",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "10:25:00",
+        "Arrival Time": "10:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1025",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Erattupetta - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "10:25:00",
+        "Arrival Time": "10:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2001",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Erattupetta - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "10:40:00",
+        "Arrival Time": "10:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3034",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "10:45:00",
+        "Arrival Time": "11:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3035",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kothamangalam - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "10:50:00",
+        "Arrival Time": "11:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3036",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "10:50:00",
+        "Arrival Time": "11:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3037",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thodupuzha - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "10:50:00",
+        "Arrival Time": "11:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3038",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "11:00:00",
+        "Arrival Time": "11:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3039",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thenkasi",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "11:00:00",
+        "Arrival Time": "11:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3040",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Aluva - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "11:10:00",
+        "Arrival Time": "11:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3041",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "11:10:00",
+        "Arrival Time": "11:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3042",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "11:15:00",
+        "Arrival Time": "11:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3043",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Trivandrum",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "11:20:00",
+        "Arrival Time": "11:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3044",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thrissur - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "11:30:00",
+        "Arrival Time": "11:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3045",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "11:30:00",
+        "Arrival Time": "11:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3046",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "11:35:00",
+        "Arrival Time": "11:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3047",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "11:40:00",
+        "Arrival Time": "11:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3048",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Palani - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "11:40:00",
+        "Arrival Time": "11:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3049",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Kottarakkara",
+        "Bus Type": "Ordinary",
+        "Departure Time": "11:45:00",
+        "Arrival Time": "12:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3050",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Nedumkandam - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "11:50:00",
+        "Arrival Time": "12:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3051",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "11:50:00",
+        "Arrival Time": "12:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3052",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "12:00:00",
+        "Arrival Time": "12:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3053",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "12:50:00",
+        "Arrival Time": "13:05:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-4509",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chakkulathukavu - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "12:50:00",
+        "Arrival Time": "13:05:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5904",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "12:55:00",
+        "Arrival Time": "13:10:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3257",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "13:00:00",
+        "Arrival Time": "13:15:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-2143",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "13:00:00",
+        "Arrival Time": "13:15:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3215",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "13:00:00",
+        "Arrival Time": "13:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8743",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Aluva - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "13:10:00",
+        "Arrival Time": "13:20:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-5678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Guruvayoor - Adoor",
+        "Bus Type": "Super Fast",
+        "Departure Time": "13:10:00",
+        "Arrival Time": "13:25:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-7462",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Perinthalmanna - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "13:15:00",
+        "Arrival Time": "13:30:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-9821",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kaipally - Trivandrum",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "13:15:00",
+        "Arrival Time": "13:30:00",
+        "Main Stops": [
+            "Adoor",
+            "Pandalam"
+        ],
+        "Bus Number": "KL-15-A-3954",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Pappanamcode",
+        "Bus Type": "Low Floor AC",
+        "Departure Time": "13:35:00",
+        "Arrival Time": "13:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7532",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "13:45:00",
+        "Arrival Time": "13:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5973",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "13:50:00",
+        "Arrival Time": "13:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1022",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "13:50:00",
+        "Arrival Time": "13:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5778",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:00:00",
+        "Arrival Time": "14:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5457",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:10:00",
+        "Arrival Time": "14:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4139",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chakkulathukavu - Punalur",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:10:00",
+        "Arrival Time": "14:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5431",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:15:00",
+        "Arrival Time": "14:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7427",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:15:00",
+        "Arrival Time": "14:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5563",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:15:00",
+        "Arrival Time": "14:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8961",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Kottarakkara",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:20:00",
+        "Arrival Time": "14:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1856",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:30:00",
+        "Arrival Time": "14:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1938",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:35:00",
+        "Arrival Time": "14:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7095",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:35:00",
+        "Arrival Time": "14:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8631",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:35:00",
+        "Arrival Time": "14:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4438",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Coimbatore - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "14:40:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6907",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Vellarada",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:40:00",
+        "Arrival Time": "14:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6968",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Guruvayoor - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3702",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8315",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-8079",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5758",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9310",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Punalur",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "14:45:00",
+        "Arrival Time": "14:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3207",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:00:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4876",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:00:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5587",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Venjaramoodu",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:00:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3414",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:00:00",
+        "Arrival Time": "15:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7424",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:10:00",
+        "Arrival Time": "15:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4759",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:15:00",
+        "Arrival Time": "15:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9236",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Kollam",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:15:00",
+        "Arrival Time": "15:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9822",
+        "Fare": "39 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:15:00",
+        "Arrival Time": "15:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6842",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:15:00",
+        "Arrival Time": "15:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2532",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Palakkad - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "15:30:00",
+        "Arrival Time": "15:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5807",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Vizhinjam",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:30:00",
+        "Arrival Time": "15:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2371",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:30:00",
+        "Arrival Time": "15:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4988",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:30:00",
+        "Arrival Time": "15:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-6890",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:35:00",
+        "Arrival Time": "15:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-5377",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Pozhiyoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:35:00",
+        "Arrival Time": "15:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7330",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "15:40:00",
+        "Arrival Time": "15:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-7974",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Trivandrum",
+        "Bus Type": "Low Floor AC",
+        "Departure Time": "15:40:00",
+        "Arrival Time": "16:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2365",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "15:50:00",
+        "Arrival Time": "15:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-9597",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:00:00",
+        "Arrival Time": "17:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1105",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Aims Hospital - Kulathupuzha",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:00:00",
+        "Arrival Time": "17:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2020",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "16:00:00",
+        "Arrival Time": "17:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4289",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Chembakappara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:10:00",
+        "Arrival Time": "17:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2778",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Kollam",
+        "Bus Type": "Ordinary",
+        "Departure Time": "16:10:00",
+        "Arrival Time": "17:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1147",
+        "Fare": "39 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Coimbatore - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "16:10:00",
+        "Arrival Time": "17:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3680",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Chittoor - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "16:15:00",
+        "Arrival Time": "17:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3992",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Palode",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "16:15:00",
+        "Arrival Time": "17:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3487",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Palakkayam - Kottarakkara",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "16:15:00",
+        "Arrival Time": "17:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2065",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Mallappally - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "16:45:00",
+        "Arrival Time": "17:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2917",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "16:55:00",
+        "Arrival Time": "17:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3354",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1223",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2865",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1079",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:00:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4938",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Vizhinjam",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:15:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4126",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kozhencherry - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:15:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2514",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Pala - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "17:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1203",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3875",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Erattupetta - Vithura",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2642",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3085",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thrissur - Kottarakkara",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "17:20:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4617",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thodupuzha - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "17:30:00",
+        "Arrival Time": "18:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1532",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Aims Hospital - Kattakkada",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:30:00",
+        "Arrival Time": "18:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2886",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Chadayamangalam",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:35:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3794",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:40:00",
+        "Arrival Time": "18:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2185",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kattappana - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "17:40:00",
+        "Arrival Time": "18:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1023",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Guruvayoor - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "17:45:00",
+        "Arrival Time": "18:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1834",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Ernakulam - Pappanamcode",
+        "Bus Type": "Low Floor AC",
+        "Departure Time": "17:45:00",
+        "Arrival Time": "18:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2729",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Palakkad - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "17:47:00",
+        "Arrival Time": "18:07:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1132",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Trivandrum",
+        "Bus Type": "Low Floor AC",
+        "Departure Time": "17:50:00",
+        "Arrival Time": "18:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1365",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Enath",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:50:00",
+        "Arrival Time": "18:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2347",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "17:55:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-4287",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Amrita Hospital - Kattakada",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "17:55:00",
+        "Arrival Time": "18:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-2005",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kozhikode - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:00:00",
+        "Arrival Time": "18:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-3811",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kozhikkode - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:00:00",
+        "Arrival Time": "18:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1023",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "18:30:00",
+        "Arrival Time": "18:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1834",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thalassery - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:30:00",
+        "Arrival Time": "18:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1042",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "18:30:00",
+        "Arrival Time": "18:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1051",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "18:40:00",
+        "Arrival Time": "18:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1063",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Nedumangad",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "18:45:00",
+        "Arrival Time": "19:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1084",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "18:45:00",
+        "Arrival Time": "18:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1095",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Enath",
+        "Bus Type": "Ordinary",
+        "Departure Time": "18:45:00",
+        "Arrival Time": "19:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1101",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "18:55:00",
+        "Arrival Time": "19:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1072",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Guruvayoor - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "19:00:00",
+        "Arrival Time": "19:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1110",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:00:00",
+        "Arrival Time": "19:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1123",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:00:00",
+        "Arrival Time": "19:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1132",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Changanassery - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:00:00",
+        "Arrival Time": "19:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1145",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Guruvayoor - Kottarakkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "19:00:00",
+        "Arrival Time": "19:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1154",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thrissur - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:05:00",
+        "Arrival Time": "19:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1167",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ettumanoor - Adoor",
+        "Bus Type": "Limited Stop Ordinary",
+        "Departure Time": "19:05:00",
+        "Arrival Time": "19:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1178",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "19:05:00",
+        "Arrival Time": "19:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1189",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Nedumkandam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:10:00",
+        "Arrival Time": "19:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1199",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:15:00",
+        "Arrival Time": "19:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1203",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chennad - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:15:00",
+        "Arrival Time": "19:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1212",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Chengannur - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:15:00",
+        "Arrival Time": "19:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1224",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kumily - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:30:00",
+        "Arrival Time": "19:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1236",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:40:00",
+        "Arrival Time": "19:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1259",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:45:00",
+        "Arrival Time": "20:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1265",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Nilambur - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "19:50:00",
+        "Arrival Time": "20:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1248",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "19:50:00",
+        "Arrival Time": "20:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Keerukuzhi",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1273",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "19:55:00",
+        "Arrival Time": "20:10:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1281",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Adoor",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "20:00:00",
+        "Arrival Time": "20:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1302",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Aluva - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "20:05:00",
+        "Arrival Time": "20:25:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1311",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Thiruvalla - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "20:10:00",
+        "Arrival Time": "20:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1336",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "20:10:00",
+        "Arrival Time": "20:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1345",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Pappanamcode",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "20:15:00",
+        "Arrival Time": "20:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1371",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Pandalam - Adoor",
+        "Bus Type": "Ordinary",
+        "Departure Time": "20:15:00",
+        "Arrival Time": "20:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Kurampala",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1383",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Palakkad - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "20:35:00",
+        "Arrival Time": "20:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1394",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Vadakara - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "20:40:00",
+        "Arrival Time": "20:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1401",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Kottarakkara",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "21:00:00",
+        "Arrival Time": "21:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1423",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kattappana - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "21:00:00",
+        "Arrival Time": "21:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1434",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Ernakulam - Kottarakkara",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "21:00:00",
+        "Arrival Time": "21:35:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1457",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Munnar - Neyyattinkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "21:05:00",
+        "Arrival Time": "21:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1471",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Ponnani - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "21:05:00",
+        "Arrival Time": "21:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1493",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Munnar - Neyyattinkara",
+        "Bus Type": "Super Fast",
+        "Departure Time": "21:20:00",
+        "Arrival Time": "21:40:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1503",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Irinjalakuda - Thiruvananthapuram",
+        "Bus Type": "Super Fast",
+        "Departure Time": "21:40:00",
+        "Arrival Time": "21:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1534",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Irinjalakuda - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "21:40:00",
+        "Arrival Time": "21:55:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1545",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Trivandrum",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "21:45:00",
+        "Arrival Time": "22:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1567",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kottayam - Thenkasi",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "21:55:00",
+        "Arrival Time": "22:15:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1589",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thiruvananthapuram",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "22:00:00",
+        "Arrival Time": "22:30:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1601",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Kottayam - Thenkasi",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "22:00:00",
+        "Arrival Time": "22:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1632",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Thrissur - Parassala",
+        "Bus Type": "Super Fast",
+        "Departure Time": "22:25:00",
+        "Arrival Time": "22:45:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1654",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Guruvayoor - Kottarakkara",
+        "Bus Type": "Fast Passenger",
+        "Departure Time": "22:30:00",
+        "Arrival Time": "22:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1678",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kottayam - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "22:45:00",
+        "Arrival Time": "23:00:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1701",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Munnar - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "22:50:00",
+        "Arrival Time": "23:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1723",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC",
+        "Route": "Guruvayoor - Thiruvananthapuram",
+        "Bus Type": "Limited Stop Fast Passenger",
+        "Departure Time": "22:55:00",
+        "Arrival Time": "23:20:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1738",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Kozhikode - Pappanamcode",
+        "Bus Type": "Low Floor Ac",
+        "Departure Time": "23:35:00",
+        "Arrival Time": "23:50:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1747",
+        "Fare": "29 Rs"
+    },
+    {
+        "Operator": "KSRTC-SWIFT",
+        "Route": "Palakkad - Trivandrum",
+        "Bus Type": "Super Fast",
+        "Departure Time": "23:50:00",
+        "Arrival Time": "00:05:00",
+        "Main Stops": [
+            "Pandalam",
+            "Adoor"
+        ],
+        "Bus Number": "KL-15-A-1759",
+        "Fare": "29 Rs"
+    }
+]
